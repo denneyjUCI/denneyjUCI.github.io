@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is behind the curtain?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey! 👋 Glad to have you here, I'm Jonathan Denney. Husband to Ashley and father of one. Currently living in Arkansas, where I work remotely for a CA-based engineering company.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Say hi [on Twitter](https://www.twitter.com/intent/follow?screen_name=jdenneydev) or via [email](javascript:location='mailto:jdenneydev@gmail.com';void 0!)
